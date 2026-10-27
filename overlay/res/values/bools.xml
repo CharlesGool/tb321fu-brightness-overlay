@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_automatic_brightness_available">true</bool>
+    <!-- tangorpro 设成 true(Pixel Tablet 屏幕自然方向是横屏); TB321FU 自然方向是竖屏, 为 true 时只能横屏的应用会倒过来 -->
+    <bool name="config_reverseDefaultRotation">false</bool>
+</resources>

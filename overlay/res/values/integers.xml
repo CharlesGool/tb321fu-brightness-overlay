@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_screenBrightnessSettingMinimum">2</integer>
+    <!-- tangorpro 设成 270(Pixel Tablet 底座); TB321FU 没有底座, 恢复 AOSP 默认 -1 -->
+    <integer name="config_deskDockRotation">-1</integer>
+</resources>

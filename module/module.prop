@@ -1,0 +1,6 @@
+id=tb321fu_brightness_overlay
+name=TB321FU Auto Brightness Overlay
+version=v1
+versionCode=1
+author=CharlesGool
+description=Legion Y700 Gen3 (TB321FU) GSI: 打开自动亮度, 亮度曲线取自原厂 ZUI. 只在 ro.product.vendor.device=TB321FU 时生效.
